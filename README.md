@@ -9,13 +9,14 @@ This project involves a comprehensive analysis of e-commerce shopping behavior u
 
 📌 Key Features:
 - Interactive Dashboards: Built in Tableau to visualize sales performance, customer insights, and product trends.
-- Data Cleaning & Preparation: Data was cleaned, transformed, and prepared for visualization using tools such as Excel/SQL (mention what you used).
+- Data Cleaning & Preparation: Data was cleaned, transformed, and prepared for visualization using tools such as Tableau
 - KPIs Tracked: Revenue, Order Volume, Average Order Value (AOV), Customer Retention, and more.
 - Business Insights: Helped identify high-value customers and marketing opportunities.
 
 🛠️ Tools & Technologies:
 - Tableau
-- Excel 
+- Excel
+- Python
 - E-commerce dataset 
 
 📈 Outcomes:
